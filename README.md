@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/maheendran-kp-aa2b9122b/](https://www.linkedin.com/in/maheendran-kp-aa2b9122b/)
+- 👨‍💻 All of my projects are available at [https://playful-stroopwafel-88f202.netlify.app/)
 
 - 💬 Ask me about **Front end development**
 
