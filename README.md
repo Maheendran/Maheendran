@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheendran&label=Profile%20views&color=0e75b6&style=flat" alt="maheendran" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m  **Full stack developer**
 
 - 👨‍💻 All of my projects are available at [https://playful-stroopwafel-88f202.netlify.app/)
 
