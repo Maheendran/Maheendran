@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **maheendrankp100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing](https://drive.google.com/file/d/1fDLFo5xX1DUFx7Z0GF_Mlj0MFNjOXdIr/view?usp=sharing)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
