@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maheendran kp</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="400" src="[https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn3d.iconscout.com/3d/premium/thumb/businessman-working-on-desk-8605243-6814884.png)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheendran&label=Profile%20views&color=0e75b6&style=flat" alt="maheendran" /> </p>
 
